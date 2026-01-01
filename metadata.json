@@ -1,0 +1,7 @@
+{
+  "name": "RapScene AI - 8s Cinematic Rap Architect",
+  "description": "Transform your face and ideas into a professional 8-second rap blueprint with cinematic scene transitions and high-energy lyrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
